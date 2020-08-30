@@ -111,14 +111,14 @@ logo = """
 \033[1;92m╚═══╩═══╝──╚╝─╚═══╩╝─╚╩╝╚╝╚╝
 \033[1;97m╔═══════════════════════════════════════╗
 \033[1;97m║\033[1;93m* \033[1;97mAUTHOR \033[1;91m: \033[1;96mHILMAN GANZ XD_                   \033[1;97m║
-\033[1;97m║\033[1;93m* \033[1;97mGITHUB \033[1;91m: \033[1;92mhttps://github.com/Yayan-XD \033[1;97m║
-\033[1;97m║\033[1;93m* \033[1;97mFB     \033[1;91m: \033[1;92mHilman Maulana XD. \033[1;97m║
+\033[1;97m║\033[1;93m* \033[1;97mGITHUB \033[1;91m: \033[1;92mhttps://github.com/HILMAN-XD \033[1;97m║
+\033[1;97m║\033[1;93m* \033[1;97mFB     \033[1;91m: \033[1;92mHilman Maulana Abbady XD. \033[1;97m║
 \033[1;97m╚═══════════════════════════════════════╝
-\033[1;96m⊱══════════⊱═⊰BACOT BROTHERHOOD⊱══════════⊱═⊰
+\033[1;96m⊱══════════⊱═⊰BEBEK-BROTHERHOOD⊱══════════⊱═⊰
 """
 
-CorrectUsername = "Hilman"
-CorrectPassword = "Gans"
+CorrectUsername = "Hilman Maulana"
+CorrectPassword = "Gans XD"
 
 
 loop = 'true'
@@ -232,7 +232,7 @@ def pilih_login():
 		os.system('xdg-open https://www.facebook.com/mdsanowarhossain.shan')
 		login()
 	elif peak =="6":
-		os.system('xdg-open https://Instagram.com/hilman_2020')
+		os.system('xdg-open https://Instagram.com/hilman_maulana2020')
 		login()
 	elif unikers =="0":
 		os.system('rm -rf login.txt')
