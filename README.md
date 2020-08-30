@@ -5,5 +5,5 @@ $cd BEBEK-BROTERHOOD
 $ls
 $python2 BEBEK-BROTERHOOD.py
 
-Username : Hilman Maulana
-Password : Gans XD
+Username : Hilman
+Password : Gans
